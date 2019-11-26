@@ -1,1 +1,1 @@
-worker: python3 Gaanabot.py
+worker: python3 GaanaBot.py
